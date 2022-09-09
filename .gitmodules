@@ -1,0 +1,6 @@
+[submodule "lab-markdown-sample"]
+	path = lab-markdown-sample
+	url = git@github.com:huntedhappy/TAP
+[submodule "lab-asciidoc-sample"]
+	path = lab-asciidoc-sample
+	url = git@github.com:huntedhappy/TAP
